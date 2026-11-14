@@ -1,4 +1,4 @@
-# DoorDash
+
 # DooR DasH: Scare vs Laugh Touchdown 👾
 
 ## About the Project
